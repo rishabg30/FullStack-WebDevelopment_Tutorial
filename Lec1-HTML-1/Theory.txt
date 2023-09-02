@@ -1,0 +1,54 @@
+## HTML BASICS ## 
+
+* HTML Stands for "Hyper Text Markup Language" {Not a programming language}
+    Markup -> Using annotations,tags to markup content. {functionality to describe the content}.
+    Hyper Text -> Links one web page to another web page. Connects two or more web pages.
+It's called Basic Building Block of Web. {Skelaton}.
+Provides description of web pages.
+
+* We have a HTML Document and when passed to Browser, it get's rendered and shown as a web page.
+
+* Tags - Keyword/Annotation which tells Browser how to render different element.
+    eg -> <p> : paragraph , <h1> : heading etc.
+    How to use it : <h1> This is my first Step into Web Development </h1>
+    Tag contains: 1) Opening Tag
+                  2) Closing Tag
+                  3) Content
+                  Combining all these it is called an element of HTML.
+
+* We can comment the lines which we don't require user to see.
+    How to use it : <! --  -->
+
+* In HTML we have,
+                1) Block Elements {eg - <p> , <h1> , <ul> etc} - Divides main page into several components
+                2) Inline Elements {eg - <em> , <strong> , <a>} - Used to differentiate specific part of text.
+
+* Div is a tag which acts like a container {Helps in customization of things available in div tag}.
+* <br> tag is used to give  a space between two lines. 
+    It does not require a closing bracket. Therefore it is called empty tag/self closing tag.
+
+* List in HTML:
+    1) Ordered List
+    2) Unordered List
+    3) Description List
+
+* Attributes: Properties of a tag.
+    eg-> <img alt = "Maggi.jpeg" width="150" height= "150"> : alt, width, height are all attributes.
+
+* id and classes attributes in mango.html file.
+* anchor tag <a href= "https://www.thecodehelp.in" ></a> used to link hypertexts of other websites also used in mango.html file.
+
+* Understanding the skelaton of HTML
+    <!DOCTYPE html> : Tells your browser that we are using HTML 5 version document.
+    <html lang="en"> </html> : lang = "en" is an attribute which shows that document will be entirely in English.
+    <head> </head> : It contains meta data {data about data} of HTML document. 
+        -> Contains title , characterset, viewport meta data, style , scripts etc.
+        -> meta tag - Jab bhi google par koi website search krte hai uske neeche jo description likha aata hai woh meta deta mei hota hai.
+            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            Used to specify : characterset
+                              page description
+                              Keywords
+                              author etc.
+            initial-scale : describes zoom level when page is first loaded.
+            
+    <body></body> : Contains actual content.

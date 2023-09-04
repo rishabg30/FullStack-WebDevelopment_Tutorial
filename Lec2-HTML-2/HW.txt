@@ -1,0 +1,9 @@
+Q1-> Learn about Quotation and Citation tags
+    -> blockquote
+    -> q
+    -> cite
+    -> address
+    -> abbreviation
+
+Q2-> How to add a favicon?
+Q3-> Make a HTML page {Video 2 1:16:22}

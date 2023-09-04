@@ -1,0 +1,11 @@
+## HTML BASICS - 2 ## 
+
+* target = "_blank" is used to open links in new tab.
+    <a href="https:www.google.com" target = "_blank" > Click to visit Google  </a>
+
+* <hr> tag is used to draw a horizontal line of web page.
+* <pre> tag is used  to display text exactly the same as you have written in HTML File. {Used in poems/songs}.
+
+* In start.html file, we have implemented various type of tags.
+* Learnt about tables in tables.html file
+* Learnt about forms in forms.html file

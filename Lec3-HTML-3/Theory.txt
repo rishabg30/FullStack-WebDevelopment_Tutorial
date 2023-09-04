@@ -1,0 +1,4 @@
+## HTML BASICS - 3 ## 
+
+* row and col span attribute explained in row_and_col_span.html file.
+* span attribute explained in tablespan.html file

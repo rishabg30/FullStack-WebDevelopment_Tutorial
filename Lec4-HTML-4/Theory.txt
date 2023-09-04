@@ -1,0 +1,36 @@
+## HTML BASICS - 4 ## 
+
+* Functionalites of anchor tag {tel tag, mailto tag etc} in link.html file.
+
+* Create Bookmarks {Consider there is a page which has a lot of description. There is 
+  one important section "About Us" where people visit a lot. So, what normally they will do is - 
+  scroll the page and react "About Us" section.
+  What Bookmark offers is it, provides a link when we click we redirect over there to make it easily accessible}.
+
+* Learnt about div tag in divspan.html. {div tag is a block element}
+
+* id is unique but class is common. 
+    id is symbolised by "#" and class is symbolised as "."
+
+* span tag -> same as div tag but it is an inline element.
+
+* Semantic tags - describes meaning of the content inside it.
+    eg: table tag, form tag, section tag etc
+    :div and span tags are non-semantic tags as they don't provide any meaning of the content inside it.
+
+* Learn about semantic tags in semantic.html file.
+  <section></section> tag: defines section in your document.
+  <article></article> tag: independent text which contains content.
+    <article>
+      <h2>Heading</h2>
+        <p>P1</p>
+        <p>P2</p> 
+    </article>
+
+* <footer></footer> tag is used at the bottom of the page.
+* <nav></nav> used for navigation links {can redirect same page as well as other pages}.
+* <aside></aside> content which is seen at the side of the page.
+  Can see the working of all these tags in semantic.html file.
+* adding a favicon is also shown in semantic.html file.
+
+* DOM stands for "Document Object Model"

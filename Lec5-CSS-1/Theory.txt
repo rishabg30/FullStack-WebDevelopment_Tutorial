@@ -1,0 +1,50 @@
+## CSS BASICS - 1 ## 
+
+* Stands for Cascading Style Sheets. {How the web page will look depends upon it's CSS}.
+
+* Selectors in CSS : is a way using which we can select an element(s).
+    Types of Selectors - 
+        1) Simple Selector
+            a) Element Selector/Type Selector/Tag Selector - CSS can select HTML elements by using element's tag name.
+               eg-> p {
+                        color : red;
+                    }
+            b) Class Selector - if a property is to applied on a group of elements then class Selector is used.
+                You can see working of class selector in index.html file.
+            c) Id Selector - for situations where you need more specificity in styling. {Unique}
+
+            d) Pseudo-class Selector - a keyword added to a selector that specifies special state of the selected element(s).
+                eg-> selector : pseudoclass {
+
+                }
+        2) Multiple Selector
+
+* Styling can be applied in three ways-
+    1)Inline CSS
+    2)Internal CSS
+    3)External CSS
+
+* Specificity - As elements can have multiple CSS selectors, there is a heirarchy of weight given
+  to each type of selector. Here is the logical order of selectors from least to most weight assigned:
+  - Type selectors (eg h1) and pseudo elements(eg: before).
+  - Class selectors, attribute selectors (eg: radio) and pseudo classes(eg: hover)
+  - Id selectors(eg #example)
+  - Inline CSS
+
+* Box Model in CSS : can be read in Box.html file.
+* Units in CSS :
+    - Absolute Unit - mm,cm,in,px : These are fixed units. You see image on your computer, mobile, tv, anywhere the image will be 
+      shown of equal size.
+    - Percentage Unit - % : lets suppose we have a div with 500 px and there is another div inside it which has 10% width.
+      What it means is 10% width of the parent div which has 500px 
+      Therefore inner div will have 10%of 500 = 50px width.
+      You can understand in pixel.html file.
+    - Relative unit to Font size:
+        - em : relative to parent's element font-size. 
+        Lets say we have a parent div with 18px font-size, and has a inner div with em = 0.5
+        This means it's font-size will be 0.5*18 = 9px.
+        - rem : relative to root {which is HTML element}.
+    - Relative unit to ViewPort: {ViewPort is the area of the content : display area}.
+        - vw : 1/100 (width of ViewPort).
+        - vh : 1/100 {height of ViewPort}.
+

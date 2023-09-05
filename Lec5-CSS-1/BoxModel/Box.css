@@ -1,0 +1,19 @@
+.box {
+  height: 100px;
+  width: 200px;
+  border: 1px solid black;
+  /* Provides space between div's/elements */
+  margin: 10px;
+  /* Space between content and border is known as Padding */
+  padding: 25px;
+  box-sizing: border-box;
+}
+#org {
+  background-color: orange;
+}
+#wht {
+  background-color: white;
+}
+#gre {
+  background-color: green;
+}

@@ -1,0 +1,58 @@
+.outer-box {
+  background-color: #241f1f;
+  width: 405px;
+  height: 380px;
+  border-radius: 3%;
+}
+
+img {
+  margin-top: 25px;
+  margin-left: 25px;
+  width: 350px;
+  height: 200px;
+  border-radius: 3%;
+}
+
+h2 {
+  color: white;
+  font-size: 25px;
+}
+
+.h2-1 {
+  margin-top: 10px;
+  margin-left: 24px;
+}
+.h2-2 {
+  margin-top: -20px;
+  margin-left: 24px;
+}
+
+hr {
+  margin-top: -0.5em;
+  border: 1px solid rgba(128, 128, 128, 0.27);
+  margin-left: 24px;
+  width: 265px;
+}
+#price {
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 24px;
+  color: rgb(102, 116, 204);
+}
+
+#realprice {
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 8px;
+  color: rgb(119, 124, 133);
+}
+
+#offer {
+  background-color: #1dd1a1;
+  padding: 7px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  margin-left: 8px;
+  border-radius: 5px;
+}

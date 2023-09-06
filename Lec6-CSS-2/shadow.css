@@ -1,0 +1,14 @@
+h1 {
+  /* Give vertical and horizontal pixels */
+  /* {horizontal,vertical,blur,color} */
+  text-shadow: 3px 3px 3px red;
+  text-shadow: 3px 3px 3px red, 3px 3px 3px blue;
+}
+
+.box {
+  background-color: aqua;
+  width: 200px;
+  height: 50px;
+  /* By giving negative value we can change the direction of shadow effect */
+  box-shadow: 10px 10px 10px green;
+}

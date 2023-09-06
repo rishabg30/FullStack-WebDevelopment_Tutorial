@@ -1,0 +1,9 @@
+.box {
+  border: 1px solid black;
+  height: 400px;
+  /* overflow: visible; */
+  /* overflow: hidden; */
+  /* overflow: clip; */
+  /* overflow: scroll; */
+  overflow: auto;
+}

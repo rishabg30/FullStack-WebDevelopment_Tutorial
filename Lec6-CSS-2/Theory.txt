@@ -1,0 +1,42 @@
+## CSS BASICS - 2 ## 
+
+* Will learn about Gradient, Shadows, Positioning, Transforms and Flexbox
+* CSS Gradient - lets you display smooth transitions between two or more specified colors.
+    1)Linear Gradient - (goes down/up/right/left/diagonal).
+    2)Radial Gradient - (defined by their center).
+    3)Conic Gradient - (rotated around a center point).
+    Can see implementation in gradient.html file.
+
+* CSS Shadows - we can add shadows to texts and to elements.
+    1)Text-shadow
+    2)Box-shadow
+
+*  CSS Dimension Properties:
+    1)width
+    2)height
+    3)Min-height
+    4)Min-width
+    5)Max-height
+    6)Max-width
+
+* Overflow Property of CSS usecase can be witnessed at - https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
+    Or can see overflow.html file.
+
+* CSS Position Propery:
+    1)Static
+    2)Relative
+    3)Fixed
+    4)Absolute
+    5)Sticky
+
+* CSS 2D Transforms - allows you to move, rotate, scale and skew elements.
+    1)translate()
+    2)rotate()
+    3)scaleX()
+    4)scaleY()
+    5)scale()
+    6)skewX()
+    7)skewY()
+    8)skew()
+    9)matrix()
+    Or can see transform.html file.

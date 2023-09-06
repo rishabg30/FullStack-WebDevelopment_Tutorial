@@ -1,0 +1,22 @@
+## CSS BASICS - 2 ## 
+
+* CSS Position Propery:
+    1)Static
+    2)Relative
+    3)Fixed
+    4)Absolute
+    5)Sticky
+
+* CSS 2D Transforms - allows you to move, rotate, scale and skew elements.
+    1)translate()
+    2)rotate()
+    3)scaleX()
+    4)scaleY()
+    5)scale()
+    6)skewX()
+    7)skewY()
+    8)skew()
+    9)matrix()
+    Or can see transform.html file.
+
+* CSS 3D Transforms - can be understood in transform.html file

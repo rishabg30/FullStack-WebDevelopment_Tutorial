@@ -1,0 +1,22 @@
+## CSS BASICS - 3 ## 
+
+* We will be learning about FlexBox in CSS
+* FlexBox - Layout model which helps in - space distribution and alignment capabilites.
+    It's a container known as a flex and contains child elements known as flex-items.
+    It's main axis is horizontal {x-axis}.
+
+* Flex-Container properties-
+    1)Flex-direction - row,column,row-reverse,column-reverse
+    2)Flex-wrap - wrap, no-wrap, wrap-reverse
+    3)Flex-flow - shorthand notation for both {Flex-direction and Flex-wrap}
+    4)Justify-content - align items on main axis {x-axis}
+    5)align-items - align items on cross axis {y-axis}
+    6)align-content
+
+* Flex-Items properties-
+    1)Order
+    2)Flex-grow
+    3)Flex-shrink
+    4)Flex-basis - sets width of flex-items
+    5)Flex - shorthand notation for {Order,Flex-grow, Flex-shrink, Flex-basis}.
+    6)Align-self

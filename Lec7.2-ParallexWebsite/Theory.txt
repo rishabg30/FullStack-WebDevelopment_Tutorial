@@ -1,0 +1,14 @@
+## Parallex Effect ##
+
+What is Parallex Effect ?
+Imagine you are sitting in a car and car is moving. You see buildings from your car window and a moon.
+You discover that buildings are moving fast but moon is moving slow wrt to your car movement.
+This is because buildings are at compartively much lesser distance to you than moon.
+This effect is know as Parallex effect. {3D effect}. 
+    Building acts as a foreground image.
+    Mooom acts as a background image.
+
+* How to add external font -
+    import a link - // @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+    font-family: "poppins", "sans-serif";
+
